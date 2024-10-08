@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "brand": "Trek",
+      "model": "Domane SL6",
+      "type": "Road",
+      "price": 3700
+    },
+    {
+      "id": 2,
+      "brand": "Giant",
+      "model": "Talon 3",
+      "type": "Mountain",
+      "price": 600
+    }
+  ]
+  
